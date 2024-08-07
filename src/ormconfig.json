@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "45.55.65.143",
+    "port": "3306",
+    "username": "well",
+    "password": "utm123",
+    "database": "atencion_estudiantil_bd",
+    "autoLoadEntities": true,
+    "synchronize": false
+  }
